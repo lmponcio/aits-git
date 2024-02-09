@@ -1,2 +1,3 @@
 this is a new text
 line added in new branch
+second line added in new branch
